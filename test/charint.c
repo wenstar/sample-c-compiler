@@ -1,0 +1,10 @@
+int a;
+char b,c;
+a = 1;
+b = 'c';
+c = 1;
+print(a);
+print(b);
+print(c);
+print('a');
+print(1);
